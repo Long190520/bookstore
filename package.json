@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon --inspect server.js",
+    "start": "node server.js",
     "debug": "ndb server.js"
   },
   "dependencies": {
