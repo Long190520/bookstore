@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "60b85fa20058a592eaae281b"
+  },
+  "description": "Hãy làm quen với Zezé, cậu bé tinh nghịch siêu hạng đồng thời cũng đáng yêu bậc nhất, với ước mơ lớn lên trở thành nhà thơ cổ thắt nơ bướm. Chẳng phải ai cũng công nhận khoản “đáng yêu” kia đâu nhé. Bởi vì, ở cái xóm ngoại ô nghèo ấy, nỗi khắc khổ bủa vây đã che mờ mắt người ta trước trái tim thiện lương cùng trí tưởng tượng tuyệt vời của cậu bé con năm tuổi.\nCó hề gì đâu bao nhiêu là hắt hủi, đánh mắng, vì Zezé đã có một người bạn đặc biệt để trút nỗi lòng: cây cam ngọt nơi vườn sau. Và cả một người bạn nữa, bằng xương bằng thịt, một ngày kia xuất hiện, cho cậu bé nhạy cảm khôn sớm biết thế nào là trìu mến, thế nào là nỗi đau, và mãi mãi thay đổi cuộc đời cậu.\n\n",
+  "imagePath": "images/book2.jpg",
+  "price": 69000,
+  "title": "Cây Cam Ngọt Của Tôi"
+},{
+  "_id": {
+    "$oid": "60b86a139aa6fa32f8de0cae"
+  },
+  "description": " “Các nhân tố địa lý vốn đã góp phần xác định lịch sử đa phần sẽ tiếp tục xác định tương lai của chúng ta”, và rằng: “Địa lý vẫn luôn luôn là một loại nhà tù định nghĩa một quốc gia là gì, hoặc có thể là gì, và là một nhà tù mà các nhà lãnh đạo thế giới thường phải nỗ lực để thoát ra”.\nHay nói cách khác, theo luận điểm của Tim Marshall, thì một thế kỷ nữa kể từ bây giờ, nhân loại vẫn sẽ là “những tù nhân của địa lý”.\n“Một suy ngẫm cốt lõi và chi tiết về những động lực địa chính trị tồn tại trên toàn cầu.” – Tiến sĩ Sajjan M. Gohel\n",
+  "imagePath": "images/book3.jpg",
+  "price": 134000,
+  "title": "Những Tù Nhân Của Địa Lý"
+},{
+  "_id": {
+    "$oid": "60b86ed39aa6fa32f8de0caf"
+  },
+  "description": "Việc lắng nghe những ý kiến của người khác cũng có thể giúp bạn nhận ra rằng phạm vi tri thức của bạn không phải là vô hạn. Không ai có thể biết hết tất cả mọi thứ. Nhưng với việc chia sẻ và đánh giá phê bình kiến thức, chúng ta có thể mở rộng tâm trí. Nếu điều này khiến bạn cảm thấy không thoải mái, không sao cả. Trên thực tế, bước ra ngoài vùng an toàn là một điều quan trọng để mở rộng niềm tin và suy nghĩ của bạn. Tư duy phản biện không phải là chỉ biết vài thứ, và chắc chắn không phải việc xác nhận những điều bạn đã biết. Thay vào đó, nó xoay quanh việc tìm kiếm sự thật – và biến chúng trở thành thứ bạn biết.",
+  "imagePath": "images/book4.jpg",
+  "price": 56000,
+  "title": "Rèn Luyện Tư Duy Phản Biện"
+},{
+  "_id": {
+    "$oid": "60b86ed59aa6fa32f8de0cb0"
+  },
+  "description": "Với một số người, suy nghĩ nghỉ việc và tự làm chủ là một ý tưởng cực kỳ hấp dẫn. Song với nhiều người khác, ý nghĩ ấy có thể rất đáng sợ.\nNhưng sẽ ra sao nếu như bạn có thể đưa một ý tưởng hái ra tiền mà chỉ phải đầu tư một chút về thời gian, tiền bạc và công sức - và có thể thực hiện việc đó bên cạnh công việc ổn định của mình? Đó chính là điều mà cuốn sách này sẽ cho bạn thấy cách thực hiện, từng bước một hướng dẫn đưa bạn từ ý tưởng đến thực hiện chỉ trong 27 ngày. Cuốn sách này dành cho những người bận rộn và thiếu kiên nhẫn. Nó là tấm bản đồ chỉ đường chi tiết cho phép bạn động não, lựa chọn, tiến hành và hái ra tiền chỉ trong chưa đầy một tháng.\n\nGiá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....",
+  "imagePath": "images/book1.jpg",
+  "price": 90000,
+  "title": "Nghề Tay Trái Hái Ra Tiền"
+},{
+  "_id": {
+    "$oid": "60b86edd9aa6fa32f8de0cb1"
+  },
+  "description": "Trí Tuệ Do Thái không dừng lại ở giới hạn của một cuốn sách triết lý hay kỹ năng. Thông qua Jerome, một kẻ lông bông thích la cà, tác giả đưa người đọc vào một chuyến khám phá về trí tuệ của người Do Thái, từ đó khơi ra những giới hạn để người đọc có thể tự khai phá trí tuệ bản thân với \"Năm nguyên tắc\" và \"Mười lăm gợi ý\". Đây sẽ là những bài học quý giá dành cho những ai muốn tồn tại và phát triển mạnh mẽ, không chỉ với con đường thành công của riêng mình.\nKhông được viết như một cuốn sách kỹ năng khô khan, Trí Tuệ Do Thái được dựng lên bằng một câu chuyện và rồi cũng khép lại với một cái kết mở, nơi những người Do Thái đang không ngừng đối mặt với cuộc sống và chinh phục nó.\n",
+  "imagePath": "images/book5.jpg",
+  "price": 106000,
+  "title": "Trí Tuệ Do Thái"
+},{
+  "_id": {
+    "$oid": "62747c29c22a9f63a363b7f8"
+  },
+  "description": "Tiểu thuyết Nhà giả kim của Paulo Coelho như một câu chuyện cổ tích giản dị, nhân ái, giàu chất thơ, thấm đẫm những minh triết huyền bí của phương Đông. Trong lần xuất bản đầu tiên tại Brazil vào năm 1988, sách chỉ bán được 900 bản. Nhưng, với số phận đặc biệt của cuốn sách dành cho toàn nhân loại, vượt ra ngoài biên giới quốc gia, Nhà giả kim đã làm rung động hàng triệu tâm hồn, trở thành một trong những cuốn sách bán chạy nhất mọi thời đại, và có thể làm thay đổi cuộc đời người đọc.\n\n“Nhưng nhà luyện kim đan không quan tâm mấy đến những điều ấy. Ông đã từng thấy nhiều người đến rồi đi, trong khi ốc đảo và sa mạc vẫn là ốc đảo và sa mạc. Ông đã thấy vua chúa và kẻ ăn xin đi qua biển cát này, cái biển cát thường xuyên thay hình đổi dạng vì gió thổi nhưng vẫn mãi mãi là biển cát mà ông đã biết từ thuở nhỏ. Tuy vậy, tự đáy lòng mình, ông không thể không cảm thấy vui trước hạnh phúc của mỗi người lữ khách, sau bao ngày chỉ có cát vàng với trời xanh nay được thấy chà là xanh tươi hiện ra trước mắt. ‘Có thể Thượng đế tạo ra sa mạc chỉ để cho con người biết quý trọng cây chà là,’ ông nghĩ.”",
+  "imagePath": "images/book6.jpg",
+  "price": 50000,
+  "title": "Nhà Giả Kim"
+},{
+  "_id": {
+    "$oid": "62747c34c22a9f63a363b7f9"
+  },
+  "description": "KỶ LUẬT vốn là ván cờ bạn phải tự đấu với chính mình. Thắng - bạn sẽ có được “bản năng của người mạnh mẽ nhất”, đó là sự tự kiểm soát bản thân. Thua - bạn mãi sống trong cảm giác tạm bợ, nuối tiếc. Càng dễ dàng dung túng cho những thói quen trì hoãn bao nhiêu, cuộc sống của bạn sẽ đi càng nhanh tới sự mất kiểm soát và thiếu quy hoạch bấy nhiêu.\n\nHãy kiên trì đặt ra yêu cầu cao với bản thân, từ chối sự mê hoặc của thói tùy tiện đồng thời thiết lập cho mình những thói quen tốt trong hành vi thường ngày. Sự nỗ lực sẽ luôn được đền đáp xứng đáng nếu bạn biết cách đầu tư công sức và thời gian. Bởi một ngày nào đó trong tương lai, những gì bạn làm sẽ phản chiếu đầy đủ trên chính con người và cuộc đời của bạn.\n\nCÀNG KỶ LUẬT, CÀNG TỰ DO - Mong rằng tại thời điểm kết thúc hành trình với cuốn sách, bạn đã là một phiên bản khác kỷ luật hơn, nhưng tự do hơn.",
+  "imagePath": "images/book7.jpg",
+  "price": 67000,
+  "title": "Càng Kỷ Luật, Càng Tự Do"
+},{
+  "_id": {
+    "$oid": "62747c38c22a9f63a363b7fa"
+  },
+  "description": "Ngày xửa ngày xưa, những người sao Hỏa và sao Kim đã gặp gỡ, yêu nhau và sống hạnh phúc bởi họ tôn trọng và chấp nhận mọi điều khác biệt. Rồi họ đến Trái Đất và chứng lãng quên đã xảy ra: Họ quên rằng họ đến từ những hành tinh khác\n\n \n\nHiểu biết về giới tính giúp chúng ta thêm khoan dung và biết tha thứ khi ai đó không đáp lại theo cách mà ta mong đợi\n\nTình chỉ đẹp khi còn dang dở\nCưới nhau về nham nhở lắm em ơ \n\nBởi kết hôn không phải là kết thúc một cuộc tình, mà nó mới là mở đầu cho rất nhiều những giai đoạn khó khăn mà cặp vợ chồng nào cũng phải trải qua. Bạn phải biết cách thích ứng và đối phó với nó để không rơi vào tình cảnh hôn nhân đổ vỡ.",
+  "imagePath": "images/book8.jpg",
+  "price": 128000,
+  "title": "Đàn Ông Sao Hỏa Đàn Bà Sao Kim"
+},{
+  "_id": {
+    "$oid": "62747c3dc22a9f63a363b7fb"
+  },
+  "description": "Sapiens là một câu chuyện lịch sử lớn về nền văn minh nhân loại – cách chúng ta phát triển từ xã hội săn bắt hái lượm thuở sơ khai đến cách chúng ta tổ chức xã hội và nền kinh tế ngày nay.\n\nTrong ấn bản mới này của cuốn Sapiens - Lược sử loài người, chúng tôi đã có một số hiệu chỉnh về nội dung với sự tham gia, đóng góp của các thành viên Cộng đồng đọc sách Tinh hoa. Xin trân trọng cảm ơn ý kiến đóng góp tận tâm của các quý độc giả, đặc biệt là ông Nguyễn Hoàng Giang, ông Nguyễn Việt Long, ông Đặng Trọng Hiếu cùng những người khác. Mong tiếp tục nhận được sự quan tâm và góp ý từ độc giả.",
+  "imagePath": "images/book9.jpg",
+  "price": 163000,
+  "title": "Sapiens Lược Sử Loài Người"
+}]
