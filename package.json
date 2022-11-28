@@ -1,7 +1,11 @@
 {
   "name": "Bookstore",
   "version": "0.0.0",
-  "private": true,
+  "main": "app.js",
+  "engines": {
+    "node": "14.x"
+  },
+
   "scripts": {
     "start": "nodemon --inspect server.js",
     "debug": "ndb server.js"
