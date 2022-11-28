@@ -13,16 +13,18 @@ dotenv.config({ path: "./config.env" });
 
 var app = require("./app");
 
-var DB = process.env.DATABASE.replace(
-  "<PASSWORD>",
-  process.env.DATABASE_PASSWORD
-);
+// var DB = process.env.DATABASE.replace(
+//   "<PASSWORD>",
+//   process.env.DATABASE_PASSWORD
+// );
 
 mongoose
-  // .connect(process.env.DATABASE_LOCAL,
-  .connect(DB, {
-    useNewUrlParser: true,
-  })
+  .connect(
+    "mongodb+srv://zxdexz148:Binmap1905@cluster0.tzjwjro.mongodb.net/Product?retryWrites=true&w=majority",
+    {
+      useNewUrlParser: true,
+    }
+  )
   .then(() => {
     console.log("Connections Successfull");
   });
